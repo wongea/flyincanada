@@ -22,8 +22,7 @@
     "Email":"",
     "Frequency":122.825,
     "Website":"www.skywaycafe.ca",
-    "marker-color":"#fc4353",
-    "marker-symbol":"tent"
+    "marker-color":"#fc4353"
     }
   },
   {
@@ -47,8 +46,7 @@
     "Email":"",
     "Frequency":123,
     "Website":"www.skywaycafe.ca",
-    "marker-color":"#fc4353",
-    "marker-symbol":"tent"
+    "marker-color":"#fc4353"
     }
   },
   {
@@ -72,8 +70,7 @@
     "Email":"",
     "Frequency":126,
     "Website":"www.wwfc.ca/wwfc-community/runway-cafe/",
-    "marker-color":"#fc4353",
-    "marker-symbol":"tent"
+    "marker-color":"#fc4353"
     }
   }
 ]
