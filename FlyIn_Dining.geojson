@@ -10,7 +10,7 @@
     "properties": {
     "Name":"CYFD",
     "Airport Name":"Brantford Airport",
-    "Resturant Name":"Skyway Caf�",
+    "Resturant Name":"Skyway Café",
     "Street":"110 Aviation Ave",
     "City":"Brantford",
     "Province":"Ontario",
@@ -22,7 +22,8 @@
     "Email":"",
     "Frequency":122.825,
     "Website":"www.skywaycafe.ca",
-    "marker-color":"#fc4353"
+    "marker-color":"#fc4353",
+    "Type":"dining"
     }
   },
   {
@@ -34,7 +35,7 @@
     "properties": {
     "Name":"CYTB",
     "Airport Name":"Tillsonburg Airport",
-    "Resturant Name":"Skyway Caf�",
+    "Resturant Name":"Skyway Café",
     "Street":"244411 Airport Rd",
     "City":"Tillsonburg",
     "Province":"Ontario",
@@ -46,7 +47,8 @@
     "Email":"",
     "Frequency":123,
     "Website":"www.skywaycafe.ca",
-    "marker-color":"#fc4353"
+    "marker-color":"#fc4353",
+    "Type":"dining"
     }
   },
   {
@@ -58,7 +60,7 @@
     "properties": {
     "Name":"CYKF",
     "Airport Name":"Waterloo International Airport",
-    "Resturant Name":"Runways Caf�",
+    "Resturant Name":"Runways Café",
     "Street":"3-4881 Fountain St N.",
     "City":"Bresleau",
     "Province":"Ontario",
@@ -70,7 +72,8 @@
     "Email":"",
     "Frequency":126,
     "Website":"www.wwfc.ca/wwfc-community/runway-cafe/",
-    "marker-color":"#fc4353"
+    "marker-color":"#fc4353",
+    "Type":"dining"
     }
   }
 ]
