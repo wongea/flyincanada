@@ -15,14 +15,15 @@
     "City":"Brantford",
     "Province":"Ontario",
     "Country":"Canada",
-    "Color":"Purple",
     "Resturant Hours":"0900-1400",
     "Description":"",
     "Photo URL":"",
     "Telephone":"(519) 753-2521",
     "Email":"",
     "Frequency":122.825,
-    "Website":"www.skywaycafe.ca"
+    "Website":"www.skywaycafe.ca",
+    "marker-color":"#fc4353",
+    "marker-symbol":"tent"
     }
   },
   {
@@ -39,14 +40,15 @@
     "City":"Tillsonburg",
     "Province":"Ontario",
     "Country":"Canada",
-    "Color":"Purple",
     "Resturant Hours":"0900-1400",
     "Description":"",
     "Photo URL":"",
     "Telephone":"519-842-4444",
     "Email":"",
     "Frequency":123,
-    "Website":"www.skywaycafe.ca"
+    "Website":"www.skywaycafe.ca",
+    "marker-color":"#fc4353",
+    "marker-symbol":"tent"
     }
   },
   {
@@ -63,14 +65,15 @@
     "City":"Bresleau",
     "Province":"Ontario",
     "Country":"Canada",
-    "Color":"Purple",
     "Resturant Hours":"0800-1500",
     "Description":"Hours change day to day. See website for details.",
     "Photo URL":"",
     "Telephone":"",
     "Email":"",
     "Frequency":126,
-    "Website":"www.wwfc.ca/wwfc-community/runway-cafe/"
+    "Website":"www.wwfc.ca/wwfc-community/runway-cafe/",
+    "marker-color":"#fc4353",
+    "marker-symbol":"tent"
     }
   }
 ]
