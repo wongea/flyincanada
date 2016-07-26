@@ -1,4 +1,4 @@
-Name,Airport Name,Resturant Name,Street,City,Province,Country,Lat,Long,Color,Resturant Hours,Description,Photo URL,Telephone,Email,Frequency,Website
-CYFD,Brantford Airport,Skyway Café,110 Aviation Ave,Brantford,Ontario,Canada,43.128131,-80.340082,Purple,0900-1400,,,(519) 753-2521,,122.825,www.skywaycafe.ca
-CYTB,Tillsonburg Airport,Skyway Café,244411 Airport Rd,Tillsonburg,Ontario,Canada,42.9150055,-80.790454,Purple,0900-1400,,,519-842-4444,,123.0,www.skywaycafe.ca
-CYKF,Waterloo International Airport,Runways Café,3-4881 Fountain St N.,Bresleau,Ontario,Canada,43.4614108,-80.379073,Purple,0800-1500,Hours change day to day. See website for details.,,,,126.0,www.wwfc.ca/wwfc-community/runway-cafe/
+Name	Airport Name	Resturant Name	Street	City	Province	Country	Lat	Long	Resturant Hours	Description	Photo URL	Telephone	Email	Frequency	Website	marker-color	Type
+CYFD	Brantford Airport	Skyway CafÃ©	110 Aviation Ave	Brantford	Ontario	Canada	43.128131	-80.340082	0900-1400			(519) 753-2521		122.825	www.skywaycafe.ca	#fc4353	dining
+CYTB	Tillsonburg Airport	Skyway CafÃ©	244411 Airport Rd	Tillsonburg	Ontario	Canada	42.9150055	-80.790454	0900-1400			519-842-4444		123	www.skywaycafe.ca	#fc4353	dining
+CYKF	Waterloo International Airport	Runways CafÃ©	3-4881 Fountain St N.	Bresleau	Ontario	Canada	43.4614108	-80.379073	0800-1500	Hours change day to day. See website for details.				126	www.wwfc.ca/wwfc-community/runway-cafe/	#fc4353	dining
